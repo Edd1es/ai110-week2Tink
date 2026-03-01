@@ -36,3 +36,7 @@ It wrote the code, ran away, and now the game is unplayable.
 ## 🚀 Stretch Features
 
 - [ ] [If you choose to complete Challenge 4, insert a screenshot of your Enhanced Game UI here]
+
+## Guiding Hint I Would Give a Student
+
+Before changing the logic, print out both the value and the type of guess and secret right before the comparison. If they are not both integers, Python may behave differently than you expect even if the code runs.
